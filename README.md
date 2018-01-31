@@ -78,12 +78,12 @@ Action: get the people who lead RSE groups (and similar) to add some metrics int
 
 1. Nominate/force leadership onto Andy
 2. A timeline for how this project will progress:
-   a. 31 january 18: Ask for people to enter metrics into the repo (to be joined by Andy, Sandra and Simon)
-   b. 31 March 18: First examples of case studies ready for review
-   c. 30 April 18: Scott, Mark, Jan (and others?) review case studies and provide feedback
-   d. 30 June 18: Open repo to all RSE leaders
-   e. Repeatedly request metrics from RSE leaders in intervening period
-   f. September 18: Announce to the world at RSE Conference
+   1. 31 january 18: Ask for people to enter metrics into the repo (to be joined by Andy, Sandra and Simon)
+   2. 31 March 18: First examples of case studies ready for review
+   3. 30 April 18: Scott, Mark, Jan (and others?) review case studies and provide feedback
+   4. 30 June 18: Open repo to all RSE leaders
+   5. Repeatedly request metrics from RSE leaders in intervening period
+   6. September 18: Announce to the world at RSE Conference
 3. Set up a repository with a tagging as above
 4. Sign up everyone to the metrics repository
 5. Choose a group of RSE leaders to commit some metrics
