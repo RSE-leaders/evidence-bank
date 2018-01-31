@@ -64,6 +64,7 @@ What we can collect
 * Estimating the time saving - similar to money argument (Sandra’s suggestion of Nectar project)
 * Measures of things that couldn’t have happened without RSE input
 
+
 ## Purpose and scope
 
 Helping other people set up new teams, demonstrating impact of an established team (for general management and also to prevent cuts, ditto for funders), raising visibility of the RSE group and role - and the importance of having RSE skills in an organisation (for the purpose of persuading groups like HR and also to persuade people to apply for roles), career progression exists to persuade established RSEs that they should stay within the role by describing the possibility of achieving promotions (plus making the case for employing the correct level of RSE for the skills required by a specific project). 
