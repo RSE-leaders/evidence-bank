@@ -14,6 +14,7 @@ group as their are many different ways to setup and run such a group.
 The table below lists the groups that have contributed information along with a brief overview
 of their setup. Click on the group name to go directly to their information and resources.
 
+
 | ------------- | ----------- |
 | RSE Group     | Description |
 | ------------- | ----------- |
