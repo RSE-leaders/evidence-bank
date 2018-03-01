@@ -1,92 +1,51 @@
-# Evidence Bank 
+# RSE Group Evidence Bank
 
-Topic: Evidence pack for the value of why access to RSEs / RSE teams is a good idea.
-Session 1 
+## What is this?
 
-## Notes from discussion
+This repository contains useful information and resources for people or organisations wishing to
+set up their own Research Software Engineering (RSE) group.
 
-International evidence bank
-* Start simple with a Google drive or repository
-* Output: statement of purpose and scope
-* Output: structure/submission protocol/rules
+## How is it organised?
 
-We’ll create a Github repository to hold the evidence because of the history, issue tracking, etc
+Each exisiting RSE group that has contributed material to the bank has created their own directory
+with the information and resources. The information and resources will differ from group to 
+group as their are many different ways to setup and run such a group.
 
-We’ll start with a private repository and then discuss
-* https://github.com/UKRSE/evidence-bank
-* https://github.com/orgs/UKRSE/teams/evidence-bank
+The table below lists the groups that have contributed information along with a brief overview
+of their setup. Click on the group name to go directly to their information and resources.
 
-Purpose: A place to share metrics that leaders could use, and also a place to share experiences of how arguments were made to 
-
-Note: we should start to collect management strategies in a similar fashion.
-
-What’s collected depends on what people are trying to do. If you’re a national funder, then you’ll have a different take on what metrics are useful compared to a someone who’s making the case for setting up a 
-
-### Metrics
-
-Split into quantitative and qualitative
-* Output: statement of purpose and scope
-* Output: what’s included, how can it be collected
-* Output: what’s been collected, what was useful and what was not
-* Output: what’s missing
-
-### Arguments and tactics
-Are RSEs a partner of researchers? How do we gain recognition and show the value of work
-
-### How to store the data
-* Output: tag structure
-  + Goal tags
-    - Set up group
-    - Impact
-    - Status (nature of role)
-    - Career progression
-  + Type tags
-    - Case study
-    - Testimonial
-    - Stats
-    - Tactics
-    - Business case
-  + Audience
-    - HR
-    - Management
-    - Funders
-
-* Folder structure:
-    - One folder per group
-
-What we can collect
-* Case studies - qualitative
-* Testimonials - qualitative
-* Number of papers - quantitative
-* International collaborations created - 
-* Downloads of software (I assume that these need collected before and after RSE effort has been invested into a project)
-* Estimating the financial saving - possibly a “finger in the air” - but there’s a possibility of collecting the data over a range of projects and producing an “average saving per RSE hour invested”
-* Estimating the time saving - similar to money argument (Sandra’s suggestion of Nectar project)
-* Measures of things that couldn’t have happened without RSE input
+|-
+| RSE Group | Description |
+|-
+| [EPCC](EPCC/) | |
+|-
 
 
-## Purpose and scope
+## Can I contribute?
 
-Helping other people set up new teams, demonstrating impact of an established team (for general management and also to prevent cuts, ditto for funders), raising visibility of the RSE group and role - and the importance of having RSE skills in an organisation (for the purpose of persuading groups like HR and also to persuade people to apply for roles), career progression exists to persuade established RSEs that they should stay within the role by describing the possibility of achieving promotions (plus making the case for employing the correct level of RSE for the skills required by a specific project). 
+Yes! This resource will be enhanced by more groups contributing information and resources. The
+type of information that is useful includes:
 
-Career progression: need to include this in a business case to show that it has been thought about
+* Information on the size and scale of the RSE group
+* How the RSE group is postioned within the larger organisation
+* Evidence that was used to help get approval for the group from the wider organisation
+* How the RSE group is structured and managed
+* How promotion and progression is managed within the group (and how this is facilitated by the wider organisation)
+* What performance metrics the RSE group uses to demonstrate success
+* Job descriptions
 
-Action: get the people who lead RSE groups (and similar) to add some metrics into this repository to see how it starts.
+Not all groups will be able to provide all this information and they are not expected to to be
+able to contribute - any useful resources and information are welcome and it is up to the 
+individual group how they structure the information within their subdirectory.
 
-## Output(s) to be drafted
+To get an idea of the type of information that would be useful please explore the information
+that has already been provided by groups.
 
+## Where did this come from?
 
-1. Nominate/force leadership onto Andy
-2. A timeline for how this project will progress:
-   1. 31 january 18: Ask for people to enter metrics into the repo (to be joined by Andy, Sandra and Simon)
-   2. 31 March 18: First examples of case studies ready for review
-   3. 30 April 18: Scott, Mark, Jan (and others?) review case studies and provide feedback
-   4. 30 June 18: Open repo to all RSE leaders
-   5. Repeatedly request metrics from RSE leaders in intervening period
-   6. September 18: Announce to the world at RSE Conference
-3. Set up a repository with a tagging as above
-4. Sign up everyone to the metrics repository
-5. Choose a group of RSE leaders to commit some metrics
-6. Choose a group to review the usefulness of the metrics after they have been committed and provide feedback
-7. Set up a working group
+The idea for this repository came from the International RSE Leaders Workshop hosted at the
+Alan Turning Institute in London in January 2018. You can find the notes from the intial 
+discussion at:
+
+* [Evidence Bank discussion notes, Int. RSE Leaders Workshop, ATI, Jan 2018](discussion/Notes_IntRSEWorkshop_Jan2018.md)
 
