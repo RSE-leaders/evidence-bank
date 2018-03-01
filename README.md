@@ -1,6 +1,6 @@
 # RSE Group Evidence Bank
 
-## What is this?
+## What is this?
 
 This repository contains useful information and resources for people or organisations wishing to
 set up their own Research Software Engineering (RSE) group.
@@ -14,11 +14,11 @@ group as their are many different ways to setup and run such a group.
 The table below lists the groups that have contributed information along with a brief overview
 of their setup. Click on the group name to go directly to their information and resources.
 
-|-
-| RSE Group | Description |
-|-
-| [EPCC](EPCC/) | |
-|-
+| ------------- | ----------- |
+| RSE Group     | Description |
+| ------------- | ----------- |
+| [EPCC](EPCC/) | EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not part of central computing services, rather it is a institute with the same status as an academic school within the University. |
+| ------------- | ----------- |
 
 
 ## Can I contribute?
