@@ -14,8 +14,25 @@ group as their are many different ways to setup and run such a group.
 The groups that have contributed information along with a brief overview
 of their setup are listed below. Click on the group name to go directly to their information and resources.
 
+### Resource tagging
 
+Each piece of information or resource is tagged by according to:
 
+* *Goal*: The goal(s) that this contribution is relevent to. Goal tags are:
+  - Setup
+  - Impact
+  - Status
+  - Career
+* *Type*: The type of contribution. Contribution tags are:
+  - Case study
+  - Testimonial
+  - Statistics
+  - Tactics
+  - Business case
+* *Audience*: The audience(s) the contributions were written for. Audience tags are:
+  - HR
+  - Management
+  - Funders
 
 ## Can I contribute?
 
@@ -43,6 +60,14 @@ that has already been provided by groups.
 
 EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not part of central computing
 services, rather it is a institute with the same status as an academic school within the University.
+
+## Examples
+
+### [University of Nowhere](UniversityOfNowhere/)
+
+The central RSE group at the University of Nowhere is part of the central IT services group and currently
+has 6 staff. **This is an example group demonstrating the type of information that can be included in this
+repository.**
 
 ## Where did this come from?
 
