@@ -1,6 +1,6 @@
 # EPCC
 
-* EPCC currently has around 100 staff of which approximately 80 perform RSE-like work
+* EPCC currently has around 100 staff of which approximately 80 perform RSE-like work.
 
 ## Position within University of Edinburgh
 
