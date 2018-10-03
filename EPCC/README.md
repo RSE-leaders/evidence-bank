@@ -28,7 +28,7 @@ employed on 2 year contracts that automatically convert to open-ended contracts 
 RSE term, the names of the different roles do not currently incorporate the term RSE. Progression for the RSE-type
 roles at EPCC follows the following structure:
 
-* Application Developer (UoE Grade 6)
+* [Application Developer (UoE Grade 6)](job-desc/appdev.md)
 * Application Consultant (UoE Grade 7)
 
 After Grade 7 the progression path splits into a technical path and a managerial path. Most staff at Grade 8 and 
