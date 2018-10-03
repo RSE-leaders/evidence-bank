@@ -7,7 +7,7 @@
 EPCC is officially an instute within the College of Science and Engineering at the University of Edinburgh.
 This position gives EPCC the same status within the University as an academic school.
 
-## Organisation and Structure
+## Organisation and Structure
 
 EPCC is split into a number of different groups (although staff can and do span multiple groups
 at times depending on their work):
@@ -21,7 +21,7 @@ A matrix management system with a project-based approach is used with many staff
 projects at once. A monthly scheduling meeting is used to assign staff to projects based on skills
 and availability.
 
-## Progression and promotion
+## Progression and Promotion
 
 All posts (with a tiny number of exceptions) at EPCC are appointed as open-ended postions - generally staff are initially 
 employed on 2 year contracts that automatically convert to open-ended contracts at their end. As EPCC pre-dates the

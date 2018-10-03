@@ -4,19 +4,19 @@
    - Unit: EPCC (College of Science and Engineering)
    - Line manager: Applications Consultant, Project Manager, Architect
 
-## Job Purpose
+## Job Purpose
 
 To provide programming and software engineering techniques on scientific and technical problems for academic and industrial projects in EPCC (and the University). 
 
 ## Main Responsibilities
 
-|---|---|
-| Employ programming and software engineering techniques on scientific and technical problems to ensure that project requirements are met and deliverables produced on time and within budget. | 80 |
-| Communicate effectively within EPCC to disseminate project results and so contribute to the success of EPCC and its various projects. | 10 |
-| Produce technical reports, Web-based information and other material to enhance the reputation of EPCC and the University. | 10 |
-|---|---|
+Approximate breakdown by time:
 
-## Planning and Organising
+   - 80% time: Employ programming and software engineering techniques on scientific and technical problems to ensure that project requirements are met and deliverables produced on time and within budget.
+   - 10% time: Communicate effectively within EPCC to disseminate project results and so contribute to the success of EPCC and its various projects.
+   - 10% time: Produce technical reports, Web-based information and other material to enhance the reputation of EPCC and the University.
+
+## Planning and Organising
 
    - Organise personal workload on a daily basis without significant supervision. 
    - Respond effectively to queries and problems from managers. 
