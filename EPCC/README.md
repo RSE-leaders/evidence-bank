@@ -29,7 +29,7 @@ RSE term, the names of the different roles do not currently incorporate the term
 roles at EPCC follows the following structure:
 
 * [Application Developer (UoE Grade 6)](job-desc/appdev.md)
-* Application Consultant (UoE Grade 7)
+* [Application Consultant (UoE Grade 7)](job-desc/appcon.md)
 
 After Grade 7 the progression path splits into a technical path and a managerial path. Most staff at Grade 8 and 
 beyond are actually neither purely technical nor purely managerial and their official job title usually 
