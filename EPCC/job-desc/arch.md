@@ -2,9 +2,9 @@
 
 ## Job Details
 
-Job title: Architect
-Unit: EPCC (College of Science and Engineering)
-Line manager: Programme Manager
+   - Job title: Architect
+   - Unit: EPCC (College of Science and Engineering)
+   - Line manager: Programme Manager
 
 ## Job Purpose
 

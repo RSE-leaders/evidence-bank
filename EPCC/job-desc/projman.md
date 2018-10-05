@@ -1,8 +1,8 @@
 # Job Description: Project Manager
 
-Job title: Project Manager
-Unit: EPCC (College of Science and Engineering)
-Line manager: Programme Manager
+   - Job title: Project Manager
+   - Unit: EPCC (College of Science and Engineering)
+   - Line manager: Programme Manager
 
 ## Job Purpose
 

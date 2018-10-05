@@ -1,8 +1,8 @@
 # Job Description: Programme Manager 
 
-Job title: Programme Manager 
-Unit: EPCC (College of Science and Engineering)
-Line manager: Technical Director 
+   - Job title: Programme Manager 
+   - Unit: EPCC (College of Science and Engineering)
+   - Line manager: Technical Director 
 
 ## Job Purpose
 

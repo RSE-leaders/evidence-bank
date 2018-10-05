@@ -2,9 +2,9 @@
 
 ## Job Details
 
-Job title: Principal Architect
-Unit: EPCC (College of Science and Engineering)
-Line manager: Technical Director
+   - Job title: Principal Architect
+   - Unit: EPCC (College of Science and Engineering)
+   - Line manager: Technical Director
 
 ## Job Purpose
 

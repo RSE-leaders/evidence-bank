@@ -1,8 +1,8 @@
 # Job Description: Applications Consultant
 
-Job title: Applications Consultant
-Unit: EPCC (College of Science and Engineering)
-Line manager: Architect, Project Manager or Programme Manager
+   - Job title: Applications Consultant
+   - Unit: EPCC (College of Science and Engineering)
+   - Line manager: Architect, Project Manager or Programme Manager
 
 ## Job Purpose
 

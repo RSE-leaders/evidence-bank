@@ -23,6 +23,12 @@ and availability.
 
 ## Progression and Promotion
 
+### Tags
+
+* **Goal:** Setup, Career
+* **Type:** Job Description
+* **Audience:** HR, Management
+
 All posts (with a tiny number of exceptions) at EPCC are appointed as open-ended postions - generally staff are initially 
 employed on 2 year contracts that automatically convert to open-ended contracts at their end. As EPCC pre-dates the
 RSE term, the names of the different roles do not currently incorporate the term RSE. Progression for the RSE-type
