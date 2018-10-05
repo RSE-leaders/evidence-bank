@@ -11,28 +11,28 @@ Each exisiting RSE group that has contributed material to the bank has created t
 with the information and resources. The information and resources will differ from group to 
 group as their are many different ways to setup and run such a group.
 
-The groups that have contributed information along with a brief overview
-of their setup are listed below. Click on the group name to go directly to their information and resources.
+Each resource contributed to the evidence bank should be tagged according to its *Goal*, its
+*Type* and its *Audience*. The tags are described in more detail below.
 
 ### Resource tagging
 
 Each piece of information or resource is tagged by according to:
 
 * *Goal*: The goal(s) that this contribution is relevent to. Goal tags are:
-  - Setup
-  - Impact
-  - Status
-  - Career
+  - **Setup**
+  - **Impact**
+  - **Status**
+  - **Career**
 * *Type*: The type of contribution. Contribution tags are:
-  - Case study
-  - Testimonial
-  - Statistics
-  - Tactics
-  - Business case
+  - **Case study**
+  - **Testimonial**
+  - **Statistics**
+  - **Tactics**
+  - **Business case**
 * *Audience*: The audience(s) the contributions were written for. Audience tags are:
-  - HR
-  - Management
-  - Funders
+  - **HR**
+  - **Management**
+  - **Funders**
 
 ## Can I contribute?
 
@@ -51,23 +51,13 @@ Not all groups will be able to provide all this information and they are not exp
 able to contribute - any useful resources and information are welcome and it is up to the 
 individual group how they structure the information within their subdirectory.
 
-To get an idea of the type of information that would be useful please explore the information
-that has already been provided by groups.
+You can contribute by forking the repository, adding your material and then issuing a pull 
+request against this repository. Alternatively, you can send your material to
+[info@rse.ac.uk](mailto:info@rse.ac.uk) and it can be added directly.
 
 ## RSE Groups
 
-### [EPCC](EPCC/)
-
-EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not part of central computing
-services, rather it is a institute with the same status as an academic school within the University.
-
-## Examples
-
-### [University of Nowhere](UniversityOfNowhere/)
-
-The central RSE group at the University of Nowhere is part of the central IT services group and currently
-has 6 staff. **This is an example group demonstrating the type of information that can be included in this
-repository.**
+This section will list the RSE groups that have provided information into the evidence bank.
 
 ## Where did this come from?
 
