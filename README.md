@@ -59,6 +59,12 @@ request against this repository. Alternatively, you can send your material to
 
 This section will list the RSE groups that have provided information into the evidence bank.
 
+### [EPCC](EPCC/)
+
+EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not part of central computing services, rather it is a institute with the same status as an academic school within the University.
+
+[More on EPCC...](EPCC/)
+
 ## Where did this come from?
 
 The idea for this repository came from the International RSE Leaders Workshop hosted at the
