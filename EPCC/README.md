@@ -37,13 +37,13 @@ reflects which side they lean more towards.
 
 Technical path:
 
-* Architect (UoE Grade 8 and above)
-* Principle Architect
+* [Architect (UoE Grade 8 and above)](job-desc/arch.md)
+* [Principle Architect](job-desc/parch.md)
 
 Managerial path:
 
-* Project Manager (UoE Grade 8)
-* Group Manager (UoE Grade 9)
+* [Project Manager (UoE Grade 8)](job-desc/projman.md)
+* [Programme Manager (UoE Grade 9)](job-desc/progman.md)
 
 Beyond these posts lie senior managment roles such as Technical Director, Director and these are not generally linked
 to a particular grade.
