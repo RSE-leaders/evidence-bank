@@ -65,6 +65,12 @@ EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not
 
 [More on EPCC...](EPCC/)
 
+## External resources
+
+* D. S. Katz, K. McHenry, J. S. Lee, "Research Software Sustainability: Lessons Learned at NCSA," 54th Hawaii International Conference on System Sciences, pp. 7249-7256, 2021. http://hdl.handle.net/10125/71494
+* D. S. Katz, K. McHenry, C. Reinking, R. Haines, "Research Software Development & Management in Universities: Case Studies from Manchester's RSDS Group, Illinois' NCSA, and Notre Dame's CRC," Intl. Work. on Soft. Eng. for Science (SE4Science), 2019. https://doi.org/10.1109/SE4Science.2019.00009 (Preprint: [arXiv 1903.00732](http://arxiv.org/abs/1903.00732))
+* D. S. Katz, K. McHenry, J. S. Lee, "Senior level RSE career paths (with an s)", SeptembRSE, 2021. https://danielskatzblog.wordpress.com/2021/09/27/senior-rse-paths/
+
 ## Where did this come from?
 
 The idea for this repository came from the International RSE Leaders Workshop hosted at the
