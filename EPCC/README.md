@@ -43,8 +43,8 @@ reflects which side they lean more towards.
 
 Technical path:
 
-* [Architect (UoE Grade 8 and above)](job-desc/arch.md)
-* [Principle Architect](job-desc/parch.md)
+* [Architect (UoE Grade 8)](job-desc/arch.md)
+* [Principle Architect (UoE Grade 9)](job-desc/parch.md)
 
 Managerial path:
 
