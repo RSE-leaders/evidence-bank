@@ -54,6 +54,10 @@ Managerial path:
 Beyond these posts lie senior managment roles such as Technical Director, Director and these are not generally linked
 to a particular grade.
 
-For promotion/regrading, staff also need to consider the University of Edinburgh general grade criteria, see: https://www.ed.ac.uk/files/atoms/files/grade-profiles_updated_august_2018_v.6.pdf
+For promotion/regrading, staff also need to consider the University of Edinburgh general grade and competencies criteria, see:
+
+* Generic grade profiles: https://www.ed.ac.uk/files/atoms/files/grade-profiles_updated_august_2018_v.6.pdf
+* Generic competencies: https://www.ed.ac.uk/human-resources/learning-development/planning-your-development/competency-framework
+
 
 
