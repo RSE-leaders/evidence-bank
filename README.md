@@ -7,32 +7,19 @@ set up their own Research Software Engineering (RSE) group.
 
 ## How is it organised?
 
+The material in this repository is grouped by career stage:
+* Junior RSE
+* RSE
+* Senior RSE
+* Head of RSE
+
+Note that there exists a range of different job titles and descriptions that broadly fit into the RSE category, and the folder names with "RSE" stand for all of these.
+
 Each exisiting RSE group that has contributed material to the bank has created their own directory
-with the information and resources. The information and resources will differ from group to 
+with the information and resources, which have been sorted into these categories. The information and resources will differ from group to 
 group as their are many different ways to setup and run such a group.
 
-Each resource contributed to the evidence bank should be tagged according to its *Goal*, its
-*Type* and its *Audience*. The tags are described in more detail below.
-
-### Resource tagging
-
-Each piece of information or resource is tagged by according to:
-
-* *Goal*: The goal(s) that this contribution is relevent to. Goal tags are:
-  - **Setup**
-  - **Impact**
-  - **Status**
-  - **Career**
-* *Type*: The type of contribution. Contribution tags are:
-  - **Case study**
-  - **Testimonial**
-  - **Statistics**
-  - **Tactics**
-  - **Business case**
-* *Audience*: The audience(s) the contributions were written for. Audience tags are:
-  - **HR**
-  - **Management**
-  - **Funders**
+Similarly, the categorisation into junior/mid-level/senior and salary bands vary from institute to institute.
 
 ## Can I contribute?
 
