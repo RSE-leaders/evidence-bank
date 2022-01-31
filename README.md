@@ -53,17 +53,7 @@ individual group how they structure the information within their subdirectory.
 
 You can contribute by forking the repository, adding your material and then issuing a pull 
 request against this repository. Alternatively, you can send your material to
-[info@rse.ac.uk](mailto:info@rse.ac.uk) and it can be added directly.
-
-## RSE Groups
-
-This section will list the RSE groups that have provided information into the evidence bank.
-
-### [EPCC](EPCC/)
-
-EPCC is a large RSE group (~100 staff) at the University of Edinburgh. It is not part of central computing services, rather it is a institute with the same status as an academic school within the University.
-
-[More on EPCC...](EPCC/)
+[info@society-rse.org](mailto:info@society-rse.org) and it can be added directly.
 
 ## Where did this come from?
 
@@ -72,4 +62,6 @@ Alan Turning Institute in London in January 2018. You can find the notes from th
 discussion at:
 
 * [Evidence Bank discussion notes, Int. RSE Leaders Workshop, ATI, Jan 2018](discussion/Notes_IntRSEWorkshop_Jan2018.md)
+
+In an RSE Leaders meeting in December 2021, it was then discussed that it would useful to update and extend the data base in order to reflect the RSE career ladder. The RSE leaders asked the Society of Research Software Engineering to take ownership of and lead this.
 
