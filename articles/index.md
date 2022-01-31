@@ -12,3 +12,4 @@
 ## Impact on science/research practice
 
 - https://software.ac.uk/blog/2017-06-16-recognising-software-central-science-codetheory-workshop-makes-case
+- https://bristol.ac.uk/acrc/research-software-engineering/case-studies/minimalmarkers/ (Speeding up a script by a factor of 10,000)
