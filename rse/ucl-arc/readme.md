@@ -1,4 +1,4 @@
-Here, and in daughter pages, is the ARC JD framework.
+Here, and in daughter pages, is the UCL Advanced Research Computing Centre (ARC) JD framework.
 
 This JD framework defines a generic job description used across all of UCL ARC’s Research Technology Professional Roles. 
 
