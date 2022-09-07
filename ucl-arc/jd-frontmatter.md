@@ -15,7 +15,9 @@ We describe our research professionals within four groupings, knowing that these
 * Rapidly assimilate research context through publications and conversation with research groups, understand the computational algorithms, requirements and interfaces needed within the research effort, and construct high-quality software for research colleagues which will result in a sustained impact on their research programme. 
 * Provide consulting on software practices, techniques, design, and architecture to research groups, helping to build robust and maintainable research software.
 
-# Research Infrastructure Developers (also known as Research Infrastructure Engineers, Research Data Engineers, ML-Ops, Res-Ops, Dev-Ops Engineer, Data Engineer):
+# Research Infrastructure Developers 
+
+(also known as Research Infrastructure Engineers, Research Data Engineers, ML-Ops, Res-Ops, Dev-Ops Engineer, Data Engineer):
 
 * Design, develop, enhance and automate new computing and data infrastructures and related tools and services for use by researchers, including anything from high-performance and high-throughput parallel infrastructures to services for data management.
 * Support the operation of research platforms and tools, assisting researchers with advice and help as needed, and recommending and implementing improvements based on user feedback.
