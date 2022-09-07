@@ -1,5 +1,5 @@
 
-The following technical specialist requirements apply at Grade 7 and above only. At Grade 6 (“Junior”) candidates are expected to show only the aptitude to develop one of these specialisms.
+The following technical specialist requirements apply at Grade 7 and above only. At Grade 6 (“Assistant”) candidates are expected to show only the aptitude to develop one of these specialisms.
 
 # Research Software Developer
 
