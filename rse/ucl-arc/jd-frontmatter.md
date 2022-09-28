@@ -6,7 +6,7 @@ You will develop and maintain technical or domain specialisms. This could mean b
 
 You will work with your management to define a portfolio of responsibilities, a mixture of service delivery, research, innovation, and teaching activities according to your own preferences and skills, and appropriate to your level of seniority.
 
-We describe our research professionals within four groupings, knowing that these are fluid categories, and welcome those who cross the boundaries between these. Within the framework described in this document, you may agree with your line manager to modify your job title to reflect your career aspirations e.g. Senior Research Software Engineer (HPC), Principal Data Steward (Medical Imaging) or Junior Bioinformatician. In each case below, we list our primary title, followed by a number of exemplar alternative job titles people may choose if they prefer.
+We describe our research professionals within four groupings, knowing that these are fluid categories, and welcome those who cross the boundaries between these. Within the framework described in this document, you may agree with your line manager to modify your job title to reflect your career aspirations e.g. Senior Research Software Engineer (HPC), Principal Data Steward (Medical Imaging) or Assistant Bioinformatician. In each case below, we list our primary title, followed by a number of exemplar alternative job titles people may choose if they prefer.
 
 # Research Software Developers 
 

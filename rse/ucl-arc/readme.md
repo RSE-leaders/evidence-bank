@@ -1,4 +1,4 @@
-Here, and in daughter pages, is the ARC JD framework.
+Here, and in daughter pages, is the UCL Advanced Research Computing Centre (ARC) JD framework.
 
 This JD framework defines a generic job description used across all of UCL ARC’s Research Technology Professional Roles. 
 
@@ -12,8 +12,8 @@ and text defining the expertise associated with a job family and specialisation,
 
 However, the generic JD framework here is the normative document in force.
 
-For each of the  job families, there are a number of possible equivalent titles (separated by a slash “/” below) – staff are able to choose one of these according to preference and roles will be advertised with the option. (To facilitate staff self-identifying in roles that match their career aspirations.)
-Seniority Prefixes: Junior (G6), no-prefix (G7), Senior (G8), Principal (G9) and Professorial (G10)
+For each of the job families, there are a number of possible equivalent titles (separated by a slash “/” below) – staff are able to choose one of these according to preference and roles will be advertised with the option. (To facilitate staff self-identifying in roles that match their career aspirations.)
+Seniority Prefixes: Assistant (G6), no-prefix (G7), Senior (G8), Principal (G9) and Professorial (G10)
 
 Job Families:
 
@@ -25,4 +25,4 @@ Research Manager
 
 
 Roles may also be associated with a domain or technical specialisation, 
-which may be indicated in a personal choice of job title, e.g. Senior Research Software Engineer (HPC) or Junior Bioinformatician.
+which may be indicated in a personal choice of job title, e.g. Senior Research Software Engineer (HPC) or Assistant Bioinformatician.
