@@ -11,8 +11,8 @@ Examples of career progression paths include:
 ## Methods of career progression
 
 The method to move between roles and grades varies between institutions.
-Some institutions now allow direct progression to higher grades. Others require
-the posting of a new job application.
+Some institutions now allow direct progression to higher grades via a promotions process.
+Others require people to apply for a vacant role at the higher grade, which may be open to internal applicants only.
 
 ## Technical vs managerial leadership roles
 
