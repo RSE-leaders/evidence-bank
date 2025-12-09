@@ -1,17 +1,29 @@
 # Funding
 
-Funding RSE can be challenging as we are often split between different forms of funding.
+Funding RSEs can be challenging as we are often split between different forms of
+funding that require a different approach to cost recovery and overheads.
 
 ## Glossary
 
+Definitions derived from RSE leaders discussions and UKRI (see links below):
+[self-assessment-for-project-funding-under-full-economic-costs](https://www.ukri.org/publications/self-assessment-for-project-funding-under-full-economic-costs/)
+[UCL Costing Principles](https://www.ucl.ac.uk/research-innovation-services/award-services/applying-funding/costing-principles)
+
 - **Directly Incurred (DI)**: Costs that are directly attributable to a specific
-  project or activity.
+  project or activity."If the project did not take place, then the expenditure
+  would not be incurred" (UKRI Self assessment form for project funding under
+  full economic costs). They must be auditable at project level (I.e. using invoices)
 - **Directly Allocated (DA)**: Costs that are shared across multiple projects or
-  activities.
-- **Overheads**: Costs that are not directly attributable to a specific project
-  or activity.
-- **Full Economic Cost (FEC)**: The total cost of a project, including Directly
-  Incurred, Directly Allocated, and Overheads.
+  activities and cannot be directly attributed to a specific project or activity.
+  Relating costs to a project must be estimated based on resource use data or
+  staff timesheets (where not directly incurred).
+- **Overheads/indirect costs**: Costs that are not directly attributable to a
+- specific project or activity. Examples include Library services,
+  Finance, Human Resources, and IT, and the use of shared equipment.
+- **Full Economic Cost (FEC)**: The total cost of a project or activity including
+  any direct or indirect costs that are necessary to enable the project to take place.
+  This includes all project costs plus a proportion of the costs associated with
+  maintaining the surrounding infrastructure such as estates, facilities, and administration.
 - **Cost Recovery**: The process of reclaiming costs from a project or activity.
 
 ## Funding Models
@@ -29,31 +41,39 @@ rate is based on FEC and is used to recover costs from projects.
 
 Timesheets are required and then billed in arrears.
 
-### Cost Recovery
+- Overheads generally paid by funder.
 
 Some RSE groups are underwritten by the institution and must cost recover from projects.
 
 Cost recovery targets vary between institutions and can be as high as 100%.
 On average this target is ??
 
+- Overheads may be paid by funder, depending on the institution's approach to
+  costing, and the nature of the RSE's role on the project.
+
 ### DI funded
 
 - When charging as a DI cost, the RSE is directly funded by the project. We have
   to be careful that there is no double counting of costs as funders may have already
-  paid for the overheads indirectly.
-- Overheads generally passed to funder.
+  paid for the overheads indirectly. This should however be managed by the institution's
+  finance team.
+- Overheads generally paid by funder.
 
 ### DA funded
 
 - When charging as a DA cost, the RSE is funded by the institution and the costs
   are shared across multiple projects.
-- Overheads generally not passed to funder
+- Overheads may be paid by funder, depending on the institution's approach to
+  costing, and the nature of the RSE's role on the project.
 
 ### As a post doc
 
-Some RSEs are funded as post docs, and therefore are a DI cost.
+- The day rate may not incorporate salary inflation either due to national inflation
+There are inconsistencies between institutions on how this is handled.
 
-## Setting a day rate
+## Setting a day rate and cost recovery process
+
+The day rate can be calculated using the TRAC methodology (FEC).
 
 Using a day rate for a project is a method of simplifying the funding application
 and cost recovery process. The day rate can be calculated using the TRAC methodology(FEC),
@@ -61,6 +81,10 @@ or by using a rate based on salary alone.
 
 A day rate can also be useful for grants where it is not necessary to name a specific
 RSE.
+
+The day rate may not incorporate salary inflation either due to national inflation.
+
+Also most UK funders won't allow you to include inflation in prices quoted.
 
 Some considerations when setting a day rate:
 
@@ -85,17 +109,18 @@ be free at the point of use or we need to cost recover from projects.
 There are a number of overheads that need to be considered when funding RSEs. These
 include:
 
-- Institution overheads such as estates, facilities, administration, and finance
+- None RSE institution overheads such as estates, facilities, administration, and
+  finance
 - Individual admin time
+- Time for non-project work such as supporting HPC facilities
 - Time for training and professional development
 - Time for funding applications
-- Time for none project work such as supporting HPC facilities
-- Management time
+- Team management time
 
 ## Funding Professional Development
 
 Funding professional development has implications on cost recovery.
-Funded is needed for the following:
+Funding is needed for the following:
 
 - Training
 - Conferences/events
