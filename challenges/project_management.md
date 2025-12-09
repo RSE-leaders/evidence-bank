@@ -1,13 +1,16 @@
 # Project Management
 
+This challenge refers to the management of RSE projects, including monitoring and
+resource allocation.
+
 ## Timesheets
 
-- Timesheets are required by some funders (I.e UKRI).
-- Timesheets are required by TRAC methodology.
+- Timesheets are required by some funders (e.g. UKRI, EU).
+- Timesheets may be required by TRAC research facilities.
 - Timesheets can be used to compare expected FTE on a project with actual FTE.
 - There is an overhead to completing timesheets.
-- There can sometimes be a discrepency between actual time spent and the time
-  recorded on the timesheet to be submitted to the funder.
+- Recording actual time spent can be challenging particularly where time spent
+  could be applied to multiple projects or activities
 
 ### Timesheet tools used by RSE teams
 
@@ -15,6 +18,7 @@
 - Toggl
 - In house bespoke
 - Excel
+- Harvest
 
 ## Moving to a new project
 

@@ -4,8 +4,6 @@ Ensuring a clear career progression path for RSE teams is important to ensure
 that staff are motivated and have a clear idea of how they can progress in their
 careers.
 
-Examples of career progression paths include:
-
 - ...
 
 ## Methods of career progression
