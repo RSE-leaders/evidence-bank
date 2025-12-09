@@ -1,6 +1,6 @@
 # Training
 
-There are two areas of training relevent to RSE teams:
+There are two areas of training relevant to RSE teams:
 
 - Training RSEs within the team
 - Training non RSEs in software skills

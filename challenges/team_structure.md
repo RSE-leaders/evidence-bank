@@ -5,7 +5,7 @@
 - It can be expensive and difficult to bring in an entirely embedded RSE into the
   central team.
 - Some RSE teams have a hard boundary between the central team and the embedded RSEs.
-- In these teams the central team is not responsible for the funding or work of
+  In these teams the central team is not responsible for the funding or work of
   the embedded RSEs.
 - Some RSE teams have a soft boundary between the central team and the embedded RSEs.
   In these teams the central team is responsible for the funding and work of the
@@ -38,4 +38,5 @@ both for the RSE and for the team leader.
 
 ## Connection to Central IT
 
-Some RSE teams are embedded in central RSE while others exist within a faculty
+Some RSE teams are embedded in central IT while others exist within an academic faculty.
+Others are hybrid or uniquely situated.

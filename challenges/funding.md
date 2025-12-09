@@ -1,6 +1,6 @@
 # Funding
 
-Funding RSE can be challenging as we are often split between different forms of funding
+Funding RSE can be challenging as we are often split between different forms of funding.
 
 ## Glossary
 
@@ -51,7 +51,7 @@ On average this target is ??
 
 ### As a post doc
 
-Some RSEs are funded as post docs.
+Some RSEs are funded as post docs, and therefore are a DI cost.
 
 ## Setting a day rate
 
