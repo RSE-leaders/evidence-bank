@@ -109,7 +109,7 @@ be free at the point of use or we need to cost recover from projects.
 There are a number of overheads that need to be considered when funding RSEs. These
 include:
 
-- None RSE institution overheads such as estates, facilities, administration, and
+- Non-RSE institution overheads such as estates, facilities, administration, and
   finance
 - Individual admin time
 - Time for non-project work such as supporting HPC facilities
