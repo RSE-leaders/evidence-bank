@@ -1,5 +1,9 @@
 # Team Structure
 
+The structure of RSE teams is a challenge that incorporates several aspects
+including embedding RSEs into research groups, integrating different RTP roles
+into RSE teams, and moving RSEs between projects.
+
 ## Embedded RSEs
 
 - It can be expensive and difficult to bring in an entirely embedded RSE into the
@@ -22,8 +26,8 @@ and finance officers.
 
 ### Research Data Managers
 
-- How we cost these roles is more challenging as they are less likely to be directly
-  associated with a project.
+- How we cost these roles is more challenging when not directly associated with a
+  project.
 
 ## Moving RSEs between projects
 
