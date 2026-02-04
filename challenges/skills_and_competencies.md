@@ -1,8 +1,14 @@
 # Skills and Competencies
 
+Skills and competencies for RSEs is a topic that is frequently discussed in the RSE
+community. At the leadership level this adds another layer of complexity when trying
+to balance a team against varying project demands.
+
+## Core Skills
+
 - The most important skill is being able to learn and adapt.
-- More senior RSEs develop a greater breadth of skills and knowledge rather
-  than becoming technical experts in a particular area.
+- Many senior RSEs develop a greater breadth of skills and knowledge
+- Some instead become technical experts in a particular area.
 - Soft skills such as project management and communication are also particularly
   important for RSEs.
 
@@ -47,5 +53,5 @@ best practice and provide training.
 
 ## Skill retention
 
-- Some skills are difficult to retain particularly in HPC support where the need can
-  vary over time.
+- Some skills are difficult to retain particularly in HPC support where the level
+of demand for particular skills can vary.
