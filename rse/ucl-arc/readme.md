@@ -1,13 +1,15 @@
 Within this folder is the UCL Advanced Research Computing Centre (ARC) JD framework.
 
-This JD framework defines a generic job description used across all of UCL ARC’s Research Technology Professional Roles.
+This JD framework defines a generic job description used across all of UCL ARC’s Research Technology Professional Roles,
+and which also underpins our [promotion process](promotion-process.md).
 
-Staff are appointed, and roles advertised, with a job title consisting of a seniority prefix and a job family, within this generic JD family.
+Staff are appointed, and roles advertised, with a job title consisting of a seniority prefix and a job family, within this generic JD framework.
 
 For staff convenience, individual JDs composed of the appropriate sections from this document may be used as summary
 documents for specific staff or recruitments.
-Each such sub-JD will consist of the preamble, text defining the seniorities appropriate to the grade,
-and text defining the expertise associated with a job family and specialisation, taken from this document.
+Each such sub-JD will consist of the [preamble](jd-frontmatter.md),
+text defining [the duties appropriate to the grade](duties-by-grade.md) with [corresponding selection criteria](requirements-by-grade.md),
+and text defining the [expertise associated with a job family and specialisation](requirements-by-profession.md), taken from this document.
 These are published for each family; links below.
 
 For each of the job families, there are a number of possible equivalent titles (separated by a slash “/” below) – staff are able to choose one of these according to preference and roles will be advertised with the option. (To facilitate staff self-identifying in roles that match their career aspirations.)
